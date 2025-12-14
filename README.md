@@ -6,14 +6,7 @@
   <img src="https://count.getloli.com/get/@ztx6506?theme=rule34" alt="Moe Counter" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="220" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/edisonlee55/edisonlee55/master/kita-ikuyo-rap.webp" width="220" style="border-radius: 10px; margin-left: 10px;" />
-</div>
-
-<br>
 
 ### 🎸 About Me
 
