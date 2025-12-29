@@ -1,59 +1,75 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+ztx6506;Kita+Ikuyo+Fan!+%F0%9F%8E%B8;Python+%26+C%2B%2B+Developer" alt="Typing SVG" />
-  </a>
-  <br>
-  <img src="https://count.getloli.com/get/@ztx6506?theme=rule34" alt="Moe Counter" />
-</div>
+💫 About Me
+
+I am a [Your Role, e.g., Software Engineer / Student / Tech Enthusiast] based in [Your Location]. I love building meaningful open-source projects and constantly exploring new boundaries in technology.
+
+🔭 I’m currently working on [Project Name or Company]
+
+🌱 I’m currently learning Java to expand my backend capabilities
+
+👯 I’m looking to collaborate on [Field of Interest]
+
+💬 Ask me about Python, C++, or Frontend Development
+
+⚡ Fun fact: [Something interesting about yourself]
+
+🛠️ Tech Stack
+
+<p align="left">
+<!-- Languages -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<!-- Frontend -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TailwindCSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
+
+<!-- Tools -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YourGitHubUsername]&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[YourGitHubUsername]&theme=transparent" />
+</p>
+
+🏆 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/[YourGitHubUsername]/[YourGitHubUsername]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+🤝 Connect with Me
+
+<p align="left">
+<a href="mailto:[YourEmail]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<a href="[YourLinkedIn/BlogLink]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="[YourTwitterLink]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
+</a>
+</p>
+
+<p align="center">
+<i>Last updated: 2025</i>
 
 
 
-### 🎸 About Me
 
-- 🔭 I’m currently working on **Something cool**
-- 🌱 I’m currently learning **Python, C++, Web Development**
-- ⚡ Fun fact: **Kita-chan is the best!**
-- 📫 How to reach me: ztx6506 (GitHub)
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ztx6506&show_icons=true&title_color=D93F3F&text_color=5c5c5c&icon_color=F2A900&bg_color=FFF5F5&border_color=FFB3B3&hide_border=true" height="180" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztx6506&layout=compact&title_color=D93F3F&text_color=5c5c5c&icon_color=F2A900&bg_color=FFF5F5&border_color=FFB3B3&hide_border=true" height="180" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ztx6506&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/ztx6506/ztx6506/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="100%" style="border-radius: 10px;">
-</div>
+<b>⭐️ Thanks for visiting my profile!</b>
+</p>
